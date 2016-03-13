@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 libgit2 - the Git linkable library
 ==================================
 
@@ -248,3 +249,6 @@ gratis.  However, you cannot modify libgit2 and distribute it without
 supplying the source.
 
 See the [COPYING file](COPYING) for the full license text.
+=======
+# git
+>>>>>>> c82cdd3472da5c299c3682183a6905f0694f6e64
